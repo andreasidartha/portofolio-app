@@ -26,7 +26,7 @@ A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [https://andreasidartha.github.io/portofolio/](https://andreasidartha.github.io/portofolio/)
+Visit the live portfolio: [https://andreasidartha.vercel.app/](https://andreasidartha.vercel.app//)
 
 ## 📁 Project Structure
 
@@ -79,7 +79,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/andreasidartha/portofolio.git
+   git clone https://github.com/andreasidartha/portofolio-app.git
    cd portofolio
    ```
 
